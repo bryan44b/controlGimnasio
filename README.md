@@ -100,15 +100,7 @@ Agotar el pase del invitado no impide que el miembro Premium entre solo.
 
  Ejecución
 
-Coloca Main.java junto con las clases Membresia.java, MembresiaBasica.java y MembresiaPremium.java, implementadas según las instrucciones de la actividad. Si las cuatro clases están en la misma carpeta y no declaran un paquete, puedes compilarlas y ejecutarlas con un JDK instalado:
+<img width="822" height="521" alt="image" src="https://github.com/user-attachments/assets/9ed88368-45bb-4cb7-8ee8-46d3469f9394" />
 
-javac -encoding UTF-8 Main.java Membresia.java MembresiaBasica.java MembresiaPremium.java
-java Main
+<img width="814" height="468" alt="image" src="https://github.com/user-attachments/assets/a55f6309-1c3f-4dc2-831d-066763494d1b" />
 
-Los mensajes de consola permiten observar los intentos de entrada y las decisiones de acceso. Esta simulación consume las visitas iniciales; la renovación mensual queda fuera del alcance de la actividad.
-
-<div align="center">
-
-Java · Programación orientada a objetos · Actividad académica
-
-</div>
